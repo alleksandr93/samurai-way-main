@@ -1,17 +1,14 @@
 import React from 'react';
 import './App.css';
+import { Header } from './Header';
+import { Technologies } from './Tchnologies';
 
 const App = () => {
     return (
         <div className="App">
-           <ul>
-            <li>Css</li>
-            <li>HTML</li>
-            <li>Js</li>
-            <li>React</li>
-           </ul>
+            <Header />
+            <Technologies />
         </div>
     );
 }
-
 export default App;

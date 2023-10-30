@@ -2,3 +2,6 @@ ul li{
     list-style-type:georgian;
     font-weight: 600;
 }
+a{
+    margin-right: 5px;
+}
