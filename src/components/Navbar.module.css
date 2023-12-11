@@ -1,0 +1,12 @@
+.nav {
+    border-radius: 5px;
+    grid-area: n;
+    background-color: burlywood;
+}
+.item{
+    color:white;
+}
+.activ{
+    color: gold;
+    
+}

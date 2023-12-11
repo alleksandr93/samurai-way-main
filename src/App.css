@@ -15,39 +15,9 @@ body{
     /*grid-gap: 10px;*/
 }
 
-.header {
-    
-    border-radius: 10px;
-    grid-area: h;
-    background-color: green;
-    display: flex;
-    align-items: center;
-}
-.bg img{
-    
-    opacity: 0.7;
-}
-.header img {
- 
-    margin-left: 15px;
-    width: 100px;
-    
-}
-img{
-    width: 100%;
-}
 
 
-.nav {
-    border-radius: 5px;
-    grid-area: n;
-    background-color: burlywood;
-}
 
 
-.content {
-    padding: 10px;
-    border-radius: 15px;
-    grid-area: c;
-    background-color: cornflowerblue;
-}
+
+

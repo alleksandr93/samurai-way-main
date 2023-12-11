@@ -1,0 +1,9 @@
+.content {
+    padding: 10px;
+    border-radius: 15px;
+    grid-area: c;
+    background-color: cornflowerblue;
+}
+.item{
+    color:yellowgreen;
+}
